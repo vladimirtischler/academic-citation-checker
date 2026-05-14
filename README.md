@@ -39,12 +39,6 @@ Práca vychádza z analýzy nasledujúcich vedeckých prác:
 - [ ] Analýza limitov (jazykové bariéry, nekonzistencia rokov) [20]
 - [ ] Dopísanie textu diplomovej práce a dokumentácie [1]
 
-## 🛠 Technológie
-*   **Jazyk:** Python
-*   **Dátové zdroje:** OpenCitations Meta, Crossref, Semantic Scholar [6, 9, 12]
-*   **Modely:** GPT-4, GPT-3.5 (pre overovanie a negácie) [13, 18, 21]
-*   **Nástroje:** GROBID, SPARQL [12, 16]
-
 ---
 **Autor:** Bc. Vladimír Tischler [1]
 **Školiteľ:** Mgr. Marek Šuppa [1, 7]
