@@ -41,5 +41,7 @@ Práca vychádza z analýzy nasledujúcich vedeckých prác:
 
 ---
 **Autor:** Bc. Vladimír Tischler
+
 **Školiteľ:** Mgr. Marek Šuppa
+
 **Pracovisko:** Katedra aplikovanej informatiky, FMFI UK
